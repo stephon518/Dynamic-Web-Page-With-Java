@@ -43,4 +43,5 @@ Rules for naming Variables
 * Create variable names by deleting spaces that separate the words. Capitalize each word in the name, including prepositions and pronouns that consist of a single letter.
 * Do not begin variable names with an underscore.
 * Do not use variable names that consist of a single character. Short variable names are only allowed for loop counters.
-* Name variables that describe binary states (“true” or “false”) after the state that matches the “true” value.
+* Name variables that describe binary states (“true” or “false”) after the state that matches the “true” value. 
+
