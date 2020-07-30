@@ -1,4 +1,4 @@
-# **Dynamic-Web-Page-With-Java**
+# **Dynamic Web Page With Java**
 
 It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and CSS style sheets), but they have the . j s extension.
 The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file).
